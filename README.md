@@ -6,5 +6,6 @@ we introduce GV-SQL, a novel framework that enriches the retrieval schema with i
 
 ![](https://github.com/cjymz886/GV-SQL/blob/main/images/m2.png)
 
-![](https://github.com/cjymz886/GV-SQL/blob/main/images/m3.png)
-
+<div align="center">
+  <img src="https://github.com/cjymz886/GV-SQL/blob/main/images/m3.png" >
+</div>
